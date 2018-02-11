@@ -187,4 +187,17 @@ Some Design Ideas - Mitchell (Brother)", MsgBoxStyle.Information, Title:="Credit
             End If
         End If
     End Sub
+
+    Private Sub MyIPToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles MyIPToolStripMenuItem.Click
+        Dim strHostName As String
+
+        Dim strIPAddress As String
+        strHostName = System.Net.Dns.GetHostName()
+        strIPAddress = Net.Dns.GetHostByName(strHostName).AddressList(0).ToString()
+
+
+        MessageBox.Show("Host Name: " & strHostName & "; IP Address: " & strIPAddress, "Computer Name/ Computer IP")
+
+
+    End Sub
 End Class

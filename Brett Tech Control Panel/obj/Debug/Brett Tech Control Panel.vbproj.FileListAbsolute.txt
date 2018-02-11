@@ -71,3 +71,22 @@ C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Pane
 C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett Tech Control Panel.exe
 C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett Tech Control Panel.xml
 C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett Tech Control Panel.pdb
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\bin\Debug\Brett Tech Control Panel.exe.manifest
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\bin\Debug\Brett Tech Control Panel.application
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\bin\Debug\Brett Tech Control Panel.exe
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\bin\Debug\Brett Tech Control Panel.pdb
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\bin\Debug\Brett Tech Control Panel.xml
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett Tech Control Panel.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett_Tech_Control_Panel.BrettTech.resources
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett_Tech_Control_Panel.CPU.resources
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett_Tech_Control_Panel.Credits.resources
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett_Tech_Control_Panel.IP_Tester.resources
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett_Tech_Control_Panel.Resources.resources
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett_Tech_Control_Panel.Process_Manager.resources
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett_Tech_Control_Panel.System_Info.resources
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett_Tech_Control_Panel.System_Info1.resources
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett_Tech_Control_Panel.Virus_Scan.resources
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett Tech Control Panel.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett Tech Control Panel.TrustInfo.xml
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett Tech Control Panel.exe.manifest
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett Tech Control Panel.application

@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Brett Tech Control Panel.exe" size="3619344">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Brett Tech Control Panel.exe" size="3620880">
       <assemblyIdentity name="Brett Tech Control Panel" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ttOkgaG1iIX+RR7cZ3kShWKojChLy3Ih6h3Tz+3XLUM=</dsig:DigestValue>
+        <dsig:DigestValue>6qUs1L9xxTkV58/c1RtDbgd0EjSPM/bvqY0550DcVxI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

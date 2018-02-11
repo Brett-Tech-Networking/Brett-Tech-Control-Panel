@@ -68,6 +68,7 @@ Partial Class BrettTech
         Me.AdvancedUserControlToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.DeviceManagerToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.GroupPolicyToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.MyIPToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ShutdownToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ShutdownToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.HibernateToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -468,7 +469,7 @@ Partial Class BrettTech
         '
         'ToolsToolStripMenuItem
         '
-        Me.ToolsToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.IPTesterToolStripMenuItem, Me.TestToolStripMenuItem, Me.ProcessManagerToolStripMenuItem, Me.PCToolsToolStripMenuItem})
+        Me.ToolsToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.IPTesterToolStripMenuItem, Me.TestToolStripMenuItem, Me.ProcessManagerToolStripMenuItem, Me.PCToolsToolStripMenuItem, Me.MyIPToolStripMenuItem})
         Me.ToolsToolStripMenuItem.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Bold)
         Me.ToolsToolStripMenuItem.ForeColor = System.Drawing.Color.Lime
         Me.ToolsToolStripMenuItem.Name = "ToolsToolStripMenuItem"
@@ -480,7 +481,7 @@ Partial Class BrettTech
         Me.IPTesterToolStripMenuItem.BackColor = System.Drawing.Color.Black
         Me.IPTesterToolStripMenuItem.ForeColor = System.Drawing.Color.Lime
         Me.IPTesterToolStripMenuItem.Name = "IPTesterToolStripMenuItem"
-        Me.IPTesterToolStripMenuItem.Size = New System.Drawing.Size(168, 22)
+        Me.IPTesterToolStripMenuItem.Size = New System.Drawing.Size(213, 22)
         Me.IPTesterToolStripMenuItem.Text = "IP Tester"
         '
         'TestToolStripMenuItem
@@ -489,7 +490,7 @@ Partial Class BrettTech
         Me.TestToolStripMenuItem.ForeColor = System.Drawing.Color.Lime
         Me.TestToolStripMenuItem.Name = "TestToolStripMenuItem"
         Me.TestToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.F2
-        Me.TestToolStripMenuItem.Size = New System.Drawing.Size(168, 22)
+        Me.TestToolStripMenuItem.Size = New System.Drawing.Size(213, 22)
         Me.TestToolStripMenuItem.Text = "System Info"
         '
         'ProcessManagerToolStripMenuItem
@@ -497,7 +498,7 @@ Partial Class BrettTech
         Me.ProcessManagerToolStripMenuItem.BackColor = System.Drawing.Color.Black
         Me.ProcessManagerToolStripMenuItem.ForeColor = System.Drawing.Color.Lime
         Me.ProcessManagerToolStripMenuItem.Name = "ProcessManagerToolStripMenuItem"
-        Me.ProcessManagerToolStripMenuItem.Size = New System.Drawing.Size(168, 22)
+        Me.ProcessManagerToolStripMenuItem.Size = New System.Drawing.Size(213, 22)
         Me.ProcessManagerToolStripMenuItem.Text = "Process Manager"
         '
         'PCToolsToolStripMenuItem
@@ -506,7 +507,7 @@ Partial Class BrettTech
         Me.PCToolsToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.VolumeToolStripMenuItem, Me.MouseToolStripMenuItem, Me.AdvancedUserControlToolStripMenuItem, Me.DeviceManagerToolStripMenuItem, Me.GroupPolicyToolStripMenuItem})
         Me.PCToolsToolStripMenuItem.ForeColor = System.Drawing.Color.Lime
         Me.PCToolsToolStripMenuItem.Name = "PCToolsToolStripMenuItem"
-        Me.PCToolsToolStripMenuItem.Size = New System.Drawing.Size(168, 22)
+        Me.PCToolsToolStripMenuItem.Size = New System.Drawing.Size(213, 22)
         Me.PCToolsToolStripMenuItem.Text = "PC Tools"
         '
         'VolumeToolStripMenuItem
@@ -548,6 +549,14 @@ Partial Class BrettTech
         Me.GroupPolicyToolStripMenuItem.Name = "GroupPolicyToolStripMenuItem"
         Me.GroupPolicyToolStripMenuItem.Size = New System.Drawing.Size(202, 22)
         Me.GroupPolicyToolStripMenuItem.Text = "Group Policy"
+        '
+        'MyIPToolStripMenuItem
+        '
+        Me.MyIPToolStripMenuItem.BackColor = System.Drawing.Color.Black
+        Me.MyIPToolStripMenuItem.ForeColor = System.Drawing.Color.Lime
+        Me.MyIPToolStripMenuItem.Name = "MyIPToolStripMenuItem"
+        Me.MyIPToolStripMenuItem.Size = New System.Drawing.Size(213, 22)
+        Me.MyIPToolStripMenuItem.Text = "Computer Name/Local IP"
         '
         'ShutdownToolStripMenuItem
         '
@@ -767,4 +776,5 @@ Partial Class BrettTech
     Friend WithEvents CreditsToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents Label8 As Label
     Friend WithEvents PictureBox2 As PictureBox
+    Friend WithEvents MyIPToolStripMenuItem As ToolStripMenuItem
 End Class
