@@ -1,0 +1,138 @@
+!readme.exe
+!update.exe
+PROGRAM FILES\search Assistant\hsr.dll
+PROGRAM FILES\search Assistant\sachook.dll
+PROGRAM FILES\search Assistant\sain.exe
+PROGRAM FILES\search Assistant\sau.dll
+PROGRAM FILES\search Assistant\sauhook.dll
+PROGRAM FILES\Search\getst.exe
+PROGRAM FILES\Search\main.exe
+PROGRAM FILES\Search\plugin.dll
+PROGRAM FILES\whgue\whgue.exe
+PROGRAM FILES\ACM\ACMConfig.exe
+PROGRAM FILES\ACM\ACMDLL.dll
+PROGRAM FILES\ACM\ACMService.exe
+PROGRAM FILES\ACM\zsHook.dll
+PROGRAM FILES\Activity Keylogger\actik.exe
+PROGRAM FILES\Activity Keylogger\akeylogger.exe
+PROGRAM FILES\Activity Keylogger\hidden.dll
+PROGRAM FILES\Activity Logger\alaware.dll
+CPROGRAM FILES\Activity Logger\alogcfg.exe
+PROGRAM FILES\Activity Logger\alogger.exe
+PROGRAM FILES\Activity Logger\alsys.exe
+PROGRAM FILES\Activity Logger\Emailer.dll
+PROGRAM FILES\Activity Logger\LogExp.dll
+PROGRAM FILES\Activity Logger\mfc.dll
+PROGRAM FILES\Activity Logger\msvcrt.dll
+PROGRAM FILES\Activity Logger\slgrl.dll
+PROGRAM FILES\Activity Logger\swkbhkl.dll
+PROGRAM FILES\Actual Spy\ActualSpy.exe
+PROGRAM FILES\Actual Spy\hkdll.dllPROGRAM FILES\Actual Spy\hprog.dll
+PROGRAM FILES\AdStatComm.dll
+PROGRAM FILES\AdvSearch\cliner.exe
+PROGRAM FILES\AdvSearch\finddll.dll
+PROGRAM FILES\AdvSearch\mailbook.exe
+PROGRAM FILES\AdvSearch\mailbookproxy.dll
+PROGRAM FILES\AdvSearch\mydll.dll
+PROGRAM FILES\AdvSearch\nndll.dll
+PROGRAM FILES\AdvSearch\nndll.dll
+PROGRAM FILES\AdvSearch\spredirect.dll
+PROGRAM FILES\AdvSearch\updater.exe
+PROGRAM FILES\AdvSearch\updaterproxy.dll
+program files\aolx\as.exe
+PROGRAM FILES\AppsTraka\AppsTraka.exe
+PROGRAM FILES\AppsTraka\unins.exe
+PROGRAM FILES\Archive.exe
+PROGRAM FILES\Ardamax Keylogger\il.dll
+PROGRAM FILES\Ardamax Keylogger\kh.dll
+PROGRAM FILES\asys\Stb.exe
+PROGRAM FILES\asys\VFX.-.exe
+PROGRAM FILES\Auto Keylogger\kbhook.dll
+PROGRAM FILES\Auto Keylogger\kl.exe
+PROGRAM FILES\Auto Keylogger\klkernel.exe
+PROGRAM FILES\Autosearch.dll
+PROGRAM FILES\AutoUpdate\AutoUpdate.exe
+PROGRAM FILES\BazookaBar\ActiveWin.exe
+PROGRAM FILES\BazookaBar\Bar.exe
+PROGRAM FILES\BazookaBar\BazookaBar.exe
+PROGRAM FILES\BazookaBar\RegMfc.exe
+PROGRAM FILES\BazookaBar\userstararticsbar.dll
+PROGRAM FILES\Blackbox\class.exe
+PROGRAM FILES\Blackbox\Console.exe
+PROGRAM FILES\Blackbox\Dll\integ.dll
+PROGRAM FILES\Blackbox\Dll\Ldll.dll
+PROGRAM FILES\Blackbox\Dll\sysclass.dll
+PROGRAM FILES\Browser Pal\adblck.dll
+PROGRAM FILES\Browser Pal\adblck.exe
+PROGRAM FILES\Browser Pal\BABarWnd.dll
+PROGRAM FILES\Browser Pal\blckbho.dll
+PROGRAM FILES\Browser Pal\blckhk.dll
+PROGRAM FILES\Browser Pal\bp.exe
+PROGRAM FILES\Browser Pal\bptlb.dll
+PROGRAM FILES\BTV\breg_inst.exe
+PROGRAM FILES\BTV\btv.exe
+PROGRAM FILES\BTV\btvclean.exe
+PROGRAM FILES\buddylinks.net\Blpref.exe
+PROGRAM FILES\BullsEye Network\bin\adv.exe
+PROGRAM FILES\BullsEye Network\bin\adx.exe
+PROGRAM FILES\CasStub\casstub.exe
+PROGRAM FILES\Cas\Client\casmf.dll
+PROGRAM FILES\Catcher.dll
+PROGRAM FILES\ChironexSoftware\BrowserSpy\BrowserSpy.dll
+PROGRAM FILES\ChironexSoftware\BrowserSpy\SciLexer.dll
+PROGRAM FILES\ClearSearch\csAOLinst.DLL
+PROGRAM FILES\ClearSearch\CSIE.dll
+PROGRAM FILES\ClearSearch\CSIEINST.dll
+PROGRAM FILES\ClearSearch\csLDRupdater.DLL
+PROGRAM FILES\ClearSearch\CSP.exe
+PROGRAM FILES\ClearSearch\Delete me.exe
+PROGRAM FILES\CMAPP\Client\cmappclient.exe
+PROGRAM FILES\CMAPP\Client\cmappmf.dll
+PROGRAM FILES\CMAPP\cmappstub.exe
+PROGRAM FILES\Coding Workshop\cnalvin.exe
+PROGRAM FILES\Coding Workshop\cnalvwsi.exe
+PROGRAM FILES\Common Files\InstallShield\Driver\\Intel \IDriver.exe
+PROGRAM FILES\Common Files\InstallShield\Driver\\Intel \IScript.dll
+PROGRAM FILES\Common Files\InstallShield\Driver\\Intel \ISRT.dll
+PROGRAM FILES\Common Files\InstallShield\Driver\\Intel \IUser.dll
+PROGRAM FILES\Common Files\InstallShield\Driver\\Intel \objps.dll
+PROGRAM FILES\Common Files\InstallShield\Driver\\Intel \_ISRES.dll
+PROGRAM FILES\Common Files\Java\breg.exe
+PROGRAM FILES\Common Files\PSD Tools\Blaim.dll
+PROGRAM FILES\Common Files\PSD Tools\Bldll.exe
+PROGRAM FILES\Common Files\PSD Tools\Blengine.dll
+PROGRAM FILES\Common Files\PSD Tools\Blengine.exe
+PROGRAM FILES\Common Files\services.exe
+PROGRAM FILES\Common Files\system\ado\mssrv.exe
+Program Files\Common files\updmgr\updmgr.exe
+PROGRAM FILES\cwebpage.dll
+PROGRAM FILES\Desktop Scout \dtsview.dll
+PROGRAM FILES\Desktop Scout \dtsview.exe
+PROGRAM FILES\Desktop Scout \svcagnt.exe
+PROGRAM FILES\DS\Config.exe
+PROGRAM FILES\DS\DSPY.exe
+PROGRAM FILES\DS\UNWISE.EXE
+PROGRAM FILES\Eg\iebhos.dll
+PROGRAM FILES\eiafasrk.dll
+PROGRAM FILES\eitcwd\eitcwd.exe
+PROGRAM FILES\eitcwd\eitwmon.exe
+PROGRAM FILES\eSyndicate\esyn.dll
+PROGRAM FILES\Evol.exe
+PROGRAM FILES\FastFinder\fftoolbar.dll
+PROGRAM FILES\FireFly\WinDeBug.exe
+PROGRAM FILES\freeMovies.exe
+PROGRAM FILES\hamemov.exe
+PROGRAM FILES\Internet Explorer\syssmss.exe
+PROGRAM FILES\Internet Explorer\Systrsy.exe
+PROGRAM FILES\Internet Keyword\inetmgr.exe
+PROGRAM FILES\JthABCKeylogger\abckey.dll
+PROGRAM FILES\JthABCKeylogger\forgotpass.exe
+PROGRAM FILES\keycl\keytrial.exe
+PROGRAM FILES\KEYKEY\keykey.exe
+PROGRAM FILES\KEYKEY\kkmon.exe
+PROGRAM FILES\KEYKEY\slman.exe
+PROGRAM FILES\KEYKEY\slview.exe
+PROGRAM FILES\MBKWBar\IEToolBar.dll
+PROGRAM FILES\mch.exe
+PROGRAM FILES\Media Access\MediaAccC.dll
+PROGRAM FILES\mIRC\Downloads\WWE DIVAS.exe

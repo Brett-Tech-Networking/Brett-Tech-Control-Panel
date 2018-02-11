@@ -1,0 +1,141 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Brett Tech Control Panel
+</name>
+</assembly>
+<members>
+<member name="T:Brett_Tech_Control_Panel.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources._000">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources._00000">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources._0003">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources._0110101000111013">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources._1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources.btn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources.cool">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources.header_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources.help">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources.imageedit_3_6890447042">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources.imageedit_3_68904470421">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources.imageedit_42_2308305446">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources.imageedit_42_23083054461">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources.imageedit_5_7574415378">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources.light_blue_color_polygonal_background_thumb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources.refresh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources.Screen_shot_2012_02_16_at_10_00_01_AM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources.tumblr_npdoktAnOS1qa763mo1_500">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brett_Tech_Control_Panel.My.Resources.Resources.viruslist">
+<summary>
+  Looks up a localized string similar to !readme.exe
+!update.exe
+PROGRAM FILES\search Assistant\hsr.dll
+PROGRAM FILES\search Assistant\sachook.dll
+PROGRAM FILES\search Assistant\sain.exe
+PROGRAM FILES\search Assistant\sau.dll
+PROGRAM FILES\search Assistant\sauhook.dll
+PROGRAM FILES\Search\getst.exe
+PROGRAM FILES\Search\main.exe
+PROGRAM FILES\Search\plugin.dll
+PROGRAM FILES\whgue\whgue.exe
+PROGRAM FILES\ACM\ACMConfig.exe
+PROGRAM FILES\ACM\ACMDLL.dll
+PROGRAM FILES\ACM\ACMService.exe
+PROGRAM FILES\ACM\zsHook.dll
+PROGRAM FILES\Activity  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+</members>
+</doc>

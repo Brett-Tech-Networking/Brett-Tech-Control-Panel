@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{715D4BE9-2E47-4777-989D-C0A979F479EA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Brett_Tech_Control_Panel.My.MyApplication</StartupObject>
+    <RootNamespace>Brett_Tech_Control_Panel</RootNamespace>
+    <AssemblyName>Brett Tech Control Panel</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Administrator\Desktop\BTN V2 6.3.17\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Brett Tech Control Panel.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Brett Tech Control Panel.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>imageedit_6_9799968630.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>052049FC5D5C9881C571E21B31219A7F23BF1386</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Brett Tech Control Panel_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Fader Theme">
+      <HintPath>..\..\desktop\Theme . dlls\Fader Theme.dll</HintPath>
+    </Reference>
+    <Reference Include="onlykl theme">
+      <HintPath>..\..\desktop\Theme . dlls\onlykl theme.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BrettTechControlPanel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BrettTechControlPanel.Designer.vb">
+      <DependentUpon>BrettTechControlPanel.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CPU.Designer.vb">
+      <DependentUpon>CPU.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CPU.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Credits.Designer.vb">
+      <DependentUpon>Credits.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Credits.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IP Tester.Designer.vb">
+      <DependentUpon>IP Tester.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IP Tester.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Process Manager.Designer.vb">
+      <DependentUpon>Process Manager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Process Manager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System Info.Designer.vb">
+      <DependentUpon>System Info.vb</DependentUpon>
+    </Compile>
+    <Compile Include="System Info.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System Info1.Designer.vb">
+      <DependentUpon>System Info1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="System Info1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Virus Scan.Designer.vb">
+      <DependentUpon>Virus Scan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Virus Scan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BrettTechControlPanel.resx">
+      <DependentUpon>BrettTechControlPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CPU.resx">
+      <DependentUpon>CPU.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Credits.resx">
+      <DependentUpon>Credits.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IP Tester.resx">
+      <DependentUpon>IP Tester.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Process Manager.resx">
+      <DependentUpon>Process Manager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System Info.resx">
+      <DependentUpon>System Info.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System Info1.resx">
+      <DependentUpon>System Info1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Virus Scan.resx">
+      <DependentUpon>Virus Scan.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Brett Tech Control Panel_TemporaryKey.pfx" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imageedit_3_6890447042.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imageedit_5_7574415378.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imageedit_3_68904470421.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\header 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0110101000111013.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light-blue-color-polygonal-background-thumb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screen-shot-2012-02-16-at-10.00.01-AM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\00000.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tumblr_npdoktAnOS1qa763mo1_500.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\000.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0003.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viruslist.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="imageedit_6_9799968630.ico" />
+    <None Include="Resources\imageedit_42_23083054461.png" />
+    <None Include="Resources\imageedit_42_2308305446.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
