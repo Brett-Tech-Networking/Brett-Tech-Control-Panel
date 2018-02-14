@@ -69,6 +69,7 @@ Partial Class BrettTech
         Me.DeviceManagerToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.GroupPolicyToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MyIPToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.CameraToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ShutdownToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ShutdownToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.HibernateToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -469,11 +470,11 @@ Partial Class BrettTech
         '
         'ToolsToolStripMenuItem
         '
-        Me.ToolsToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.IPTesterToolStripMenuItem, Me.TestToolStripMenuItem, Me.ProcessManagerToolStripMenuItem, Me.PCToolsToolStripMenuItem, Me.MyIPToolStripMenuItem})
+        Me.ToolsToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.IPTesterToolStripMenuItem, Me.TestToolStripMenuItem, Me.ProcessManagerToolStripMenuItem, Me.PCToolsToolStripMenuItem, Me.MyIPToolStripMenuItem, Me.CameraToolStripMenuItem})
         Me.ToolsToolStripMenuItem.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Bold)
         Me.ToolsToolStripMenuItem.ForeColor = System.Drawing.Color.Lime
         Me.ToolsToolStripMenuItem.Name = "ToolsToolStripMenuItem"
-        Me.ToolsToolStripMenuItem.Size = New System.Drawing.Size(47, 20)
+        Me.ToolsToolStripMenuItem.Size = New System.Drawing.Size(48, 20)
         Me.ToolsToolStripMenuItem.Text = "Tools"
         '
         'IPTesterToolStripMenuItem
@@ -557,6 +558,14 @@ Partial Class BrettTech
         Me.MyIPToolStripMenuItem.Name = "MyIPToolStripMenuItem"
         Me.MyIPToolStripMenuItem.Size = New System.Drawing.Size(213, 22)
         Me.MyIPToolStripMenuItem.Text = "Computer Name/Local IP"
+        '
+        'CameraToolStripMenuItem
+        '
+        Me.CameraToolStripMenuItem.BackColor = System.Drawing.Color.Black
+        Me.CameraToolStripMenuItem.ForeColor = System.Drawing.Color.Red
+        Me.CameraToolStripMenuItem.Name = "CameraToolStripMenuItem"
+        Me.CameraToolStripMenuItem.Size = New System.Drawing.Size(213, 22)
+        Me.CameraToolStripMenuItem.Text = "Camera "
         '
         'ShutdownToolStripMenuItem
         '
@@ -684,7 +693,7 @@ Partial Class BrettTech
         Me.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
         Me.AutoValidate = System.Windows.Forms.AutoValidate.EnablePreventFocusChange
         Me.BackColor = System.Drawing.Color.Black
-        Me.ClientSize = New System.Drawing.Size(806, 553)
+        Me.ClientSize = New System.Drawing.Size(806, 554)
         Me.Controls.Add(Me.Time)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.GroupBox1)
@@ -777,4 +786,5 @@ Partial Class BrettTech
     Friend WithEvents Label8 As Label
     Friend WithEvents PictureBox2 As PictureBox
     Friend WithEvents MyIPToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents CameraToolStripMenuItem As ToolStripMenuItem
 End Class

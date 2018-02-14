@@ -90,3 +90,4 @@ C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Pane
 C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett Tech Control Panel.TrustInfo.xml
 C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett Tech Control Panel.exe.manifest
 C:\Users\Admin\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett Tech Control Panel.application
+C:\Users\Administrator\Documents\GitHub\Brett-Tech-Control-Panel\Brett Tech Control Panel\obj\Debug\Brett_Tech_Control_Panel.Camera.resources

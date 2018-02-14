@@ -123,6 +123,12 @@
       <DependentUpon>BrettTechControlPanel.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Camera.Designer.vb">
+      <DependentUpon>Camera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Camera.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="CPU.Designer.vb">
       <DependentUpon>CPU.vb</DependentUpon>
     </Compile>
@@ -184,6 +190,9 @@
   <ItemGroup>
     <EmbeddedResource Include="BrettTechControlPanel.resx">
       <DependentUpon>BrettTechControlPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Camera.resx">
+      <DependentUpon>Camera.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="CPU.resx">
       <DependentUpon>CPU.vb</DependentUpon>

@@ -29,4 +29,8 @@ Public Class IP_Tester
     Private Sub IP_Tester_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
     End Sub
+
+    Private Sub ToolStripButton1_MouseHover(sender As Object, e As EventArgs) Handles ToolStripButton1.MouseHover
+
+    End Sub
 End Class

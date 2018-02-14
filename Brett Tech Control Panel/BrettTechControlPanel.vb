@@ -200,4 +200,8 @@ Some Design Ideas - Mitchell (Brother)", MsgBoxStyle.Information, Title:="Credit
 
 
     End Sub
+
+    Private Sub CameraToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles CameraToolStripMenuItem.Click
+        Camera.Show()
+    End Sub
 End Class

@@ -134,7 +134,7 @@ Partial Class IP_Tester
         Me.ToolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.ToolStripButton1.Name = "ToolStripButton1"
         Me.ToolStripButton1.Size = New System.Drawing.Size(23, 22)
-        Me.ToolStripButton1.Text = "ToolStripButton1"
+        Me.ToolStripButton1.Text = "Refresh"
         '
         'ToolStripButton2
         '
@@ -152,7 +152,7 @@ Partial Class IP_Tester
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.Black
-        Me.ClientSize = New System.Drawing.Size(425, 237)
+        Me.ClientSize = New System.Drawing.Size(425, 238)
         Me.Controls.Add(Me.BindingNavigator1)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.GroupBox1)
@@ -162,7 +162,7 @@ Partial Class IP_Tester
         Me.MinimumSize = New System.Drawing.Size(441, 276)
         Me.Name = "IP_Tester"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "IP_Tester"
+        Me.Text = "IP Tester"
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()
         CType(Me.BindingNavigator1, System.ComponentModel.ISupportInitialize).EndInit()

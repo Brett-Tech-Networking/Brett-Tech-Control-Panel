@@ -126,6 +126,7 @@ Partial Class Process_Manager
         Me.MainMenuStrip = Me.MenuStrip1
         Me.MaximizeBox = False
         Me.MaximumSize = New System.Drawing.Size(539, 696)
+        Me.MinimumSize = New System.Drawing.Size(539, 696)
         Me.Name = "Process_Manager"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Process Manager"
