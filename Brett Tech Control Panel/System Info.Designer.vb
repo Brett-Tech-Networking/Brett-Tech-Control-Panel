@@ -382,6 +382,7 @@ Partial Class System_Info
         Me.Controls.Add(Me.TabControl1)
         Me.DoubleBuffered = True
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
+        Me.MaximumSize = New System.Drawing.Size(488, 489)
         Me.Name = "System_Info"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "System Information"

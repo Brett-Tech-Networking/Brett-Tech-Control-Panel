@@ -57,13 +57,13 @@ Partial Class Process_Manager
         'NewTaskToolStripMenuItem
         '
         Me.NewTaskToolStripMenuItem.Name = "NewTaskToolStripMenuItem"
-        Me.NewTaskToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.NewTaskToolStripMenuItem.Size = New System.Drawing.Size(128, 22)
         Me.NewTaskToolStripMenuItem.Text = "New Task"
         '
         'EXITToolStripMenuItem
         '
         Me.EXITToolStripMenuItem.Name = "EXITToolStripMenuItem"
-        Me.EXITToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.EXITToolStripMenuItem.Size = New System.Drawing.Size(128, 22)
         Me.EXITToolStripMenuItem.Text = "EXIT"
         '
         'Processes
@@ -125,6 +125,7 @@ Partial Class Process_Manager
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MainMenuStrip = Me.MenuStrip1
         Me.MaximizeBox = False
+        Me.MaximumSize = New System.Drawing.Size(539, 696)
         Me.Name = "Process_Manager"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Process Manager"
