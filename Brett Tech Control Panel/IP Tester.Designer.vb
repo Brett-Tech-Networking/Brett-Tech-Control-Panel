@@ -122,7 +122,7 @@ Partial Class IP_Tester
         Me.BindingNavigator1.MovePreviousItem = Nothing
         Me.BindingNavigator1.Name = "BindingNavigator1"
         Me.BindingNavigator1.PositionItem = Nothing
-        Me.BindingNavigator1.Size = New System.Drawing.Size(425, 25)
+        Me.BindingNavigator1.Size = New System.Drawing.Size(421, 25)
         Me.BindingNavigator1.TabIndex = 2
         Me.BindingNavigator1.Text = "BindingNavigator1"
         '
@@ -156,6 +156,7 @@ Partial Class IP_Tester
         Me.Controls.Add(Me.BindingNavigator1)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.GroupBox1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
         Me.MaximumSize = New System.Drawing.Size(441, 276)

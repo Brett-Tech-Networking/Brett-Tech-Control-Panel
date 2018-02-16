@@ -82,6 +82,7 @@ Partial Class Camera
         Me.ClientSize = New System.Drawing.Size(730, 641)
         Me.Controls.Add(Me.TabControl1)
         Me.Controls.Add(Me.PictureBox1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximumSize = New System.Drawing.Size(746, 679)
         Me.MinimumSize = New System.Drawing.Size(746, 679)
