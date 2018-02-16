@@ -170,6 +170,7 @@ Partial Class Virus_Scan
         '
         'GroupBox1
         '
+        Me.GroupBox1.BackColor = System.Drawing.Color.DarkBlue
         Me.GroupBox1.Controls.Add(Me.ListBox2)
         Me.GroupBox1.Controls.Add(Me.ComboBox1)
         Me.GroupBox1.Controls.Add(Me.Label1)
@@ -216,7 +217,7 @@ Partial Class Virus_Scan
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.Black
-        Me.ClientSize = New System.Drawing.Size(926, 529)
+        Me.ClientSize = New System.Drawing.Size(922, 525)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.GroupBox1)
